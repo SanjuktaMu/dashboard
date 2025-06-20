@@ -58,7 +58,7 @@ event-management-dashboard/
 
 ### Steps to Run Locally
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/SanjuktaMu/dashboard
 
 2. Navigate to the project directory:
 
