@@ -11,6 +11,12 @@ The **Event Management Dashboard** is a web-based application developed to effic
 Developed using **HTML, CSS, JavaScript**, and **Bootstrap**, this dashboard offers a modern UI and ensures a seamless user experience across devices through responsive design techniques.
 
 ---
+![image](https://github.com/user-attachments/assets/afbf4ab3-39b5-46cf-b2d8-a389e0b9c294)
+![image](https://github.com/user-attachments/assets/884d0875-dab9-42a7-b69d-360c65a77581)
+![image](https://github.com/user-attachments/assets/a94f4883-97c2-43b2-90b5-21bb97a8e5f3)
+
+
+
 
 ## ✨ Key Features
 
